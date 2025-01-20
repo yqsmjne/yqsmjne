@@ -1,9 +1,9 @@
 # 🌟 Welcome to My GitHub!  
 
 Hi there! I'm Yasmine, a passionate educator and tech enthusiast from Verona, Italy.
-I'm currently studying **Web Developing** at an ITS (Technical Higher Education), and I'm in my second year of the program.
-In my free time, I work on innovative solutions to help small businesses thrive. 💡  
-I also teach coding, robotics, and creative technologies to students of all ages. 🚀 
+  I'm currently studying **Web Developing** at an ITS (Technical Higher Education), and I'm in my second year of the program.
+    In my free time, I work on innovative solutions to help small businesses thrive. 💡  
+      I also teach coding, robotics, and creative technologies to students of all ages. 🚀 
 
 ---
 
